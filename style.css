@@ -1,0 +1,41 @@
+#likes {
+   margin-left: 50px;
+   margin-top: 30px;
+   background-color: brown;
+   width: 500px;
+   padding: 10px;
+   border: 2px solid burlywood;
+}
+
+#likes p {
+    color: white;
+}
+.mylikes {
+    background-color: burlywood;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.mylikes li {
+    color: brown;
+}
+#dislikes {
+   margin-left: 50px;
+   margin-top: 30px;
+   background-color: burlywood;
+   width: 500px;
+   padding: 10px;
+   border: 2px solid brown;
+}
+#dislikes p {
+    color: brown;
+}
+.mydislikes {
+    background-color: brown;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.mydislikes li {
+    color: white;
+}
